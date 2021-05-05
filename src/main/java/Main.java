@@ -7,4 +7,5 @@ public class Main {
         long endTime = System.currentTimeMillis();
         System.out.println("Spent time: " + (endTime-startTime) + "ms");
     }
+// something for commit 1
 }
