@@ -8,4 +8,6 @@ public class Main {
         System.out.println("Spent time: " + (endTime-startTime) + "ms");
     }
 // something for commit 1
+    // something for commit 2
+
 }
